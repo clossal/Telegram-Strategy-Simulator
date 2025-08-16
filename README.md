@@ -20,7 +20,8 @@ This tool:
 ---
 
 ## 📷 Screenshot
-![App Screenshot](https://via.placeholder.com/1000x500.png?text=Telegram+Strategy+Simulator+Screenshot)
+![App Screenshot](Screenshot.png)
+
 
 ---
 
