@@ -365,5 +365,3 @@ with tab2:
     else:
         st.info("Not enough daily data to build trend clusters yet.")
 
-st.caption("Everything is scope-aware now: Validation metrics, thr* tuning, and Test backtest all reflect the selected scope & parameters.")
-
